@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India: A Land of Myriad Culture</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"
+        integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.3.0/css/all.min.css"
+        integrity="sha512-UJqci0ZyYcQ0AOJkcIkUCxLS2L6eNcOr7ZiypuInvEhO9uqIDi349MEFrqBzoy1QlfcjfURHl+WTMjEdWcv67A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://kit.fontawesome.com/838a1589a4.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+
+    <div class="hero">
+
+
+        <video autoplay muted loop id="myVideo">
+            <source src="background/Welcome to India ! [CINEMATIC TRAVEL FILM].mp4" type="video/mp4">
+        </video>
+
+
+        <div class="content">
+            <h1 class="heading">India</h1>
+            <button id="myBtn" onclick="">Explore</button>
+
+        </div>
+
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a class="navbar-brand" href="#">
+                    <img src="images/Optimized-hand-drawn-map-india_52683-15299.jpg" class="logo" />
+                </a>
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" id="navItem1" href="#homeSection">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="navItem1" href="#aboutmeSection">About Pulkit</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="navItem1" href="#heritagessitesSection">Heritage Sites</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" id="navItem1" href="#templesSection">Temples</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" id="navItem1" href="#artSection">Art Forms</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="navItem1" href="#contactSection">Contact Me</a>
+                        </li>
+
+                    </ul>
+                    <div class="d-flex flex-row justify-content-center">
+
+
+                        <li class="icon-container">
+                            <i class="fab fa-facebook icon"></i>
+                        </li>
+
+                        <li class="icon-container">
+                            <i class="fab fa-twitter icon"></i>
+                        </li>
+
+                        <li class="icon-container">
+                            <i class="fab fa-youtube icon"></i>
+                        </li>
+
+                        <li class="icon-container">
+                            <i class="fab fa-instagram icon"></i>
+                        </li>
+
+                        <li class="icon-container">
+                            <i class="fa-solid fa-magnifying-glass icon"></i>
+                        </li>
+
+                    </div>
+
+
+
+
+                </div>
+
+
+            </div>
+    </div>
+    </nav>
+
+    </div>
+    </div>
+
+
+    <div class="home-section" id="homeSection"></div>
+
+
+    <div class="about-me-section pt-3 pb-3" id="aboutmeSection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="about-me-section-heading">Hi! I'm Pulkit Mathur.</h1>
+                    <p class="about-me-section-description">
+                        My passion is learning about life through travelling and exploring new things. It excites me
+                        when I visit
+                        new places, learn about
+                        different cultures, and see other people live a life that is different from mine. I just love to
+                        travel
+                        because it makes me realize
+                        that the world is so beautiful and there is so much to admire and treasure. Furthermore, i love
+                        the feeling
+                        I get when I explore new
+                        ideas, histories, beliefs, and scenarios. It not only increases my knowledge, but also helps me
+                        overcome
+                        problems that I am dealing
+                        with. I get to experience life’s problems, pleasures, and I come out of my personal bubble to
+                        become a
+                        better person by exploring
+                        new cultures. Travelling is my passion because it’s something that I am not afraid to chase
+                        after. I get to
+                        learn more and more
+                        about myself and I am able to expand my horizons every time I travel.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+    <div class="heritage-sites-section pt - 3 pb -3" id="heritagessitesSection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heritage-sites-main-heading">Heritage of India</h1>
+                    <p class="heritage-sites-description mb-2">World Heritage is the designation for places on Earth
+                        that are of
+                        outstanding universal value to humanity.
+                    </p>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="heritage-sites-section-card p-3 mb-3">
+
+                        <img src="images/taj-mahal-gettyimages-463924915_xbzecf.jpg" class="card-image" />
+                        <h2 class="heritage-sites-section-card-header">Taj Mahal, Agra</h2>
+                        <p>One of Seven Wonders of the World, White Marble Mughal
+                            Architecture, the Taj Mahal was built by emperor Shah Jahan in the memory of his wife,
+                            Mumtaj Mahal.
+                            It is located at the bank of river Yamuna in Agra.It is called the “Jewel of Muslim Art in
+                            India”.</p>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="heritage-sites-section-card p-3 mb-3">
+
+                        <img src="images/Kochi_E2_80_99s-Mattancherry-Palace-Museum-Home-to-some-of-India_E2_80_99s-best-mythological-murals-FB-1200x700-compressed_monuog.jpg"
+                            class="card-image" />
+                        <h2 class="heritage-sites-section-card-header">Mattancherry Palace, Kochi</h2>
+                        <p>It is also known as Dutch Palace,is one of the
+                            finest examples of the Kerala style of architecture.Located at around 12 km from Ernakulam,
+                            it was built around 1545 C.E by the Portuguese as a present to King of Kochi dynasty.</p>
+
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="heritage-sites-section-card p-3 mb-3">
+
+                        <img src="images/Red-Fort_t9rzwq.jpg" class="card-image" />
+                        <h2 class="heritage-sites-section-card-header">Red Fort Complex, Delhi</h2>
+                        <p>The Red Fort or Lal Qila is a historic fort in the Old Delhi
+                            neighbourhood of Delhi, India, that historically served as the main residence of the Mughal
+                            emperors.
+                            Emperor Shah Jahan commissioned construction of the Red Fort on 12th May 1638.</p>
+
+
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="heritage-sites-section-card p-3 mb-3">
+
+                        <img src="images/Sanchi-Stupa1_sgqvwq.jpg" class="card-image" />
+                        <h2 class="heritage-sites-section-card-header">Sanchi Stupa, Madhya Pradesh</h2>
+                        <p>Great Stupa, most noteworthy of the structures at the historic site of Sanchi in
+                            Madhya Pradesh state, India.It was originally built in the 3rd century BCE by the Mauryan
+                            emperor Ashoka
+                            and is believed to house ashes of the Buddha.</p>
+
+
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="heritage-sites-section-card p-3 mb-3">
+
+                        <img src="images/Fatehpur-Sikri_kpv29s.jpg" class="card-image" />
+                        <h2 class="heritage-sites-section-card-header">Fatehpur Sikri,Uttar Pradesh</h2>
+                        <p>Fatehpur Sikri a city predominantly in red sand-stone, situated at a distance of 37 kms from
+                            Agra,
+                            was built by the Mughal Emperor Jalal-ud-din Mohammad Akbar during 15th century, in honour
+                            of the great
+                            Sufi saint Sheikh Salim Chisti. </p>
+
+
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="heritage-sites-section-card p-3 mb-3">
+
+                        <img src="images/Humayuns-Tomb_ukgbni.jpg" class="card-image" />
+                        <h2 class="heritage-sites-section-card-header">Humayun's Tomb, New Delhi</h2>
+                        <p>The tomb of Humayun, second Mughal Emperor of India, was built by his widow, Biga Begum
+                            (Hajji Begum),
+                            in 1569-70.It was later used for the burial of various members of the ruling family and
+                            contains some 150
+                            graves.
+
+                        </p>
+
+
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="heritage-sites-section-card p-3 mb-3">
+
+                        <img src="images/Rani-Ki-Vav_xctzpa.jpg" class="card-image" />
+                        <h2 class="heritage-sites-section-card-header">Rani Ki Vav,Gujarat</h2>
+                        <p> Rani Ki Vav is a stepwell situated in the town of Patan in Gujarat, India. It is located on
+                            the banks of
+                            the Saraswati River.
+                            It was built by Udayamati, the spouse of the 11th-century Chaulukya king Bhima I. It is one
+                            of the UNESCO
+                            World Heritage Sites.</p>
+
+
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="heritage-sites-section-card p-3 mb-3">
+
+                        <img src="images/Jantar-Mantar_yxkawn.jpg" class="card-image" />
+                        <h2 class="heritage-sites-section-card-header">Jantar Mantar, Jaipur, Rajasthan</h2>
+                        <p>
+                            The Jaipur astronomical observatory, Jantar Mantar—thought to have been built by the
+                            enlightened ruler Sawai Jai Singh II in 1729—is one of the world's most accurate pre-modern
+                            observatories
+                            and
+                            attests eighteenth-century efforts.
+                        </p>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="temples-section pt - 3 pb - 3" id="templesSection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="temples-section-heading">Temples</h1>
+                    <p class="temples-section-description">The age of a Temple reflects the ancestral and
+                        civilizational memory of a society as it is a witness to the events which have shaped its
+                        present.
+                    </p>
+                </div>
+                <div class="col-12 col-md-3">
+                    <div class="temples-section-card p-3 mb-3">
+
+                        <img src="images/Konark_a7jbdc.jpg" class="card-image" />
+                        <h2 class="temples-section-card-header">Konark Sun Temple, Odisha</h2>
+                        <p>Konark Sun Temple is a 13th-century CE (year 1250) Sun temple at Konark about 35 kilometres
+                            northeast from Puri city on the coastline in Puri district, Odisha, India.The temple is
+                            attributed to king
+                            Narasimhadeva I of the
+                            Eastern Ganga dynasty about 1250 CE.</p>
+                    </div>
+                </div>
+
+
+
+                <div class="col-12 col-md-3">
+                    <div class="temples-section-card p-3 mb-3">
+
+                        <img src="images/thanjavur-brihadeeshwara_ds02de.jpg" class="card-image" />
+                        <h2 class="temples-section-card-header">Brihadeeshwara Temple, Thanjavur</h2>
+                        <p>Brihadeeshwara Temple (Peruvudaiyar Kovil) is a Hindu temple dedicated to Shiva located in
+                            Thanjavur in
+                            the
+                            Indian state of Tamil Nadu.It is one of the largest temples in India. Built by emperor Raja
+                            Raja Chola I
+                            and completed in 1010 AD, the temple turned 1000 years old in 2010.
+                    </div>
+                </div>
+
+
+                <div class="col-12 col-md-3">
+                    <div class="temples-section-card p-3 mb-3">
+
+                        <img src="images/sangameshwara-temple-pattadakal-karnataka-sharvari-mehendale_pn34he.jpg"
+                            class="card-image" />
+                        <h2 class="temples-section-card-header">Pattadakal Temple, Karnataka</h2>
+                        <p>Located on the banks of the Malaprabha River, this UNESCO World Heritage Site is a testament
+                            to the
+                            richness
+                            of Chalukyan architecture during the 7th and 8th centuries.Pattadakal is 445 km from
+                            Bengaluru.
+                            Hubballi is the nearest airport (130 km from Pattadakal).
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="col-12 col-md-3">
+                    <div class="temples-section-card p-3 mb-3">
+
+                        <img src="images/Tungnath_temple_lyq6ro.jpg" class="card-image" />
+                        <h2 class="temples-section-card-header">Tungnath Temple, Uttarakhand</h2>
+                        <p>Situated in the Rudraprayag District, Tungnath Temple is the highest Shiva temple in the
+                            world nestled at
+                            an altitude of 3680 meters. It is one of the Panch Kedars and
+                            is believed to have belonged to an ancient era almost 1000 years old.The ideal time to visit
+                            Tungnath is
+                            April, May, and June.</p>
+                    </div>
+                </div>
+
+
+                <div class="col-12 col-md-3">
+                    <div class="temples-section-card p-3 mb-3">
+
+                        <img src="images/a-view-of-the-ramappa-temple-at-palampet-village-in-mulugu-district-_sffctl.jpg"
+                            class="card-image" />
+                        <h2 class="temples-section-card-header">Ramappa Temple, Telangana</h2>
+                        <p>Ramappa Temple, also known as the Rudreswara temple, is a Kakatiya style Hindu temple
+                            dedicated to the
+                            Hindu god Shiva,
+                            located in Telangana, India. It is 209 km (130 mi) from Hyderabad. It was constructed in the
+                            year 1213 CE
+                            by Recherla Rudra—a general of Kakatiya ruler Ganapati Deva.</p>
+                    </div>
+                </div>
+
+
+
+
+                <div class="col-12 col-md-3">
+                    <div class="temples-section-card p-3 mb-3">
+
+                        <img src="images/07577cc1e3ad69d8c7f6af153dbc3665_crnnlk.jpg" class="card-image" />
+                        <h2 class="temples-section-card-header">Mahabalipuram, Tamil Nadu</h2>
+                        <p>The temples in Mahabalipuram are well-known worldwide for their carvings and the Arjuna's
+                            Penance.
+                            It is a massive open-air bas-relief monolith dating from the 7th century CE.There are no
+                            direct train
+                            services to Mahabalipuram.
+                            The nearest railway station is the Egmore station, located in Chennai.</p>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="temples-section-card p-3 mb-3">
+
+                        <img src="images/47081465_zra66l.jpg" class="card-image" />
+                        <h2 class="temples-section-card-header">Mahabodhi Temple, Bihar</h2>
+                        <p>The Mahabodhi Temple Complex, Bodh Gaya lies 115 km south of the state capital of Bihar,
+                            Patna and 16 km from the district headquarters at Gaya, in Eastern India. It is one of the
+                            four holy sites related to the life of the Lord Buddha, and particularly to the attainment
+                            of
+                            Enlightenment. </p>
+                    </div>
+                </div>
+
+
+                <div class="col-12 col-md-3">
+                    <div class="temples-section-card p-3 mb-3">
+
+                        <img src="images/msid-94357235_width-96_height-65_lvchue.jpg" class="card-image" />
+                        <h2 class="temples-section-card-header">Padmanabha Swamy Temple, Kerala</h2>
+                        <p>Sree Padmanabhaswamy Temple is located in Thiruvananthapuram, the capital city of Kerala.
+                            Embellished in gold-plated covering. Dedicated to Lord Padmanabha; one of the avatars of
+                            Lord Vishnu.
+                            Built as a replica of the Adikesavaperumal Temple in Thiruvattar.</p>
+
+                    </div>
+                </div>
+
+
+
+            </div>
+
+
+        </div>
+
+
+        <div class="art-section pt -3 pb - 3" id="artSection">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h1 class="art-section-heading">Art & Culture</h1>
+                        <p class="art-section-description">India has a variety of art forms practiced in different parts
+                            of the
+                            country.
+                            Many different art forms have survived through time.
+                        </p>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="art-section-card p-3 mb-3">
+
+                            <img src="images/61yKxY6pPeS._UF1000_1000_QL80__aaup5w.jpg" class="card-image" />
+                            <h2 class="art-section-card-header">Madhubani Painting</h2>
+                            <p>This art is also known as Mithila art, and it originated in the kingdom of Janak in Nepal
+                                and in
+                                present-day Bihar.
+                                This art form was not known to the rest of the world until the 1930s, when it was
+                                discovered after an
+                                earthquake.
+                                This art form is admired for its portrayal of traditions and cultures.</p>
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-12 col-md-3">
+                        <div class="art-section-card p-3 mb-3">
+
+                            <img src="images/tribal-warli-painting-music-and-dance-illustration_y3ghts.jpg"
+                                class="card-image" />
+                            <h2 class="art-section-card-header">Warli Painting</h2>
+                            <p>This form of art dates back to 2500 BCE, and it was practiced by the Warli tribes from
+                                Thane and Nasik
+                                in Maharashtra. These paintings mostly illustrate the nature and social rituals of the
+                                tribe.
+                                It portrays daily activities like farming, praying, dancing, hunting, etc.</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-12 col-md-3">
+                        <div class="art-section-card p-3 mb-3">
+
+                            <img src="images/Untitled-design-1-1000x565_lhgfww.png" class="card-image" />
+                            <h2 class="art-section-card-header">Miniature Painting</h2>
+                            <p>The miniature paintings illustrate a combination of Indian, Islamic and Persian art
+                                styles. This art
+                                form dates back to the 16th century, and the themes are
+                                usually centred on battles, court scenes, portraits, wildlife, receptions, hunting
+                                scenes, legendary
+                                stories etc.</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-12 col-md-3">
+                        <div class="art-section-card p-3 mb-3">
+
+                            <img src="images/radha-krishna-kalamkari-painting-by-harinathn-memerakicom-376425_1024x_aemvgl.jpg"
+                                class="card-image" />
+                            <h2 class="art-section-card-header">Kalamkari Painting</h2>
+                            <p>Having a strong connection to Persian motifs, this art has been in practice for more than
+                                3000 years.
+                                Kalamkari derives its name from kalam, or pen, and it means ‘drawings with a pen’.
+                                This organic art of hand and block printing has survived generations in Andhra Pradesh.
+                            </p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-12 col-md-3">
+                        <div class="art-section-card p-3 mb-3">
+
+                            <img src="images/IMG_4372_hgfhf1.jpg" class="card-image" />
+                            <h2 class="art-section-card-header">Tanjore Painting</h2>
+                            <p>First painted in the 16th century under the Chola regime, this painting originated in the
+                                Thanjavur
+                                district in Tamil Nadu. It is known for its magnificent embellishments, vibrant colours
+                                and rich
+                                surfaces.
+                                The themes are mainly centred on the Hindu gods and goddesses</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-12 col-md-3">
+                        <div class="art-section-card p-3 mb-3">
+
+                            <img src="images/buy-recording-online-pattachitra-workshop-with-apindra-swain-memerakicom-114513_2400x_pbmnra.jpg"
+                                class="card-image" />
+                            <h2 class="art-section-card-header">Pattachitra</h2>
+                            <p>Pattachitra art forms date back to the 5th century and originated in Odisha and West
+                                Bengal. These
+                                cloth-based scroll paintings have a heavy influence of the Mughal era. Admired by art
+                                lovers,
+                                the Pattachitra paintings are dedicated to religious and mythological themes.</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-12 col-md-3">
+                        <div class="art-section-card p-3 mb-3">
+
+                            <img src="images/gond-painting_zbzrgn.jpg" class="card-image" />
+                            <h2 class="art-section-card-header">Gond Painting</h2>
+                            <p>A native art form of Madhya Pradesh, Gond paintings are mostly themed on animals and
+                                birds.
+                                Practised by the Gond tribes, this art form is believed to be 1400 years old.Natural
+                                colours derived
+                                from plant sap, charcoal, coloured soil,
+                                cow dung, leaves, etc. are used to make this type of painting.</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-12 col-md-3">
+                        <div class="art-section-card p-3 mb-3">
+
+                            <img src="images/Cheriyal_d_wrkzqg.jpg" class="card-image" />
+                            <h2 class="art-section-card-header">Cheriyal Scrolls</h2>
+                            <p>This form of art originated in present-day Telangana and has been practised by the
+                                Nakashi family
+                                through generations. The Kalamkari art influenced the creation of the Cheriyal scrolls.
+                                The scrolls are
+                                generally 40–45 feet in length,
+                                and the themes are mainly centred on Indian mythology. </p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="contact-section pt- 3 pb - 3" id="contactSection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+
+
+                    <div class="contact-me-section">
+
+
+                        <h1 class="header">Contact Me</h1>
+                        <p class="description">Thank you for visiting my site. India: A Land of Myriad Culture is
+                            designed to
+                            help you make the most out of your travels and I am more than happy to answer any questions
+                            you might
+                            have.</p>
+
+                    </div>
+                    <div>
+
+                        <form id="contact-form" method="post" action="">
+                            <input name="name" type="text" class="form-control" placeholder="Name" required><br>
+
+                            <input name="email" type="email" class="form-control" placeholder="Email Address"
+                                required><br>
+
+                            <textarea name="message" class="form-control" placeholder="Message" rows="4"
+                                required></textarea><br>
+
+
+                            <input type="submit" class="form-control submit" value="Submit">
+
+                        </form>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Castoro+Titling&family=Caveat:wght@400;500;600;700&family=Comfortaa:wght@300;400;500;600;700&family=Lobster&family=Lumanosimo&family=Pacifico&family=Poppins:ital,wght@0,400;0,500;0,600;1,300;1,400;1,500;1,600&family=Roboto+Slab:wght@100;200;300;400;500;600;700&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .hero {
+            width: 100%;
+            height: 100vh;
+            position: relative;
+            padding: 0;
+
+        }
+
+        #navItem1 {
+            font-family: 'Poppins', georgia;
+            color: black;
+            font-weight: 200;
+
+
+
+        }
+
+        #navItem1:hover {
+            text-decoration: none;
+            text-transform: uppercase;
+            transition: 0.3s;
+            background: green;
+            color: whitesmoke;
+
+
+        }
+
+
+        #myVideo {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            min-height: 100%;
+
+        }
+
+        #myBtn {
+            height: 38px;
+            width: 138px;
+            font-size: 18px;
+            padding: 0;
+            border: none;
+            background-color: aliceblue;
+            color: #141414;
+            cursor: pointer;
+            border-radius: 10px;
+
+        }
+
+        #myBtn:hover {
+            background: #ddd;
+            color: rgb(24, 22, 22);
+        }
+
+
+
+        .content {
+            position: absolute;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0);
+            color: #f1f1f1;
+            width: 100%;
+            padding: 20px;
+            text-align: center;
+
+        }
+
+        .heading {
+            font-family: 'Gill Sans', sans-serif;
+            font-weight: 400;
+            color: #fff;
+            font-size: 140px;
+            font-weight: bold;
+            text-decoration: none;
+
+        }
+
+        .icon-container {
+            background-color: rgb(132, 170, 112);
+            width: 50px;
+            height: 50px;
+            border-radius: 20px;
+            margin: 5px;
+            padding-top: 16px;
+            padding-bottom: 16px;
+            padding-right: 16px;
+            padding-left: 16px;
+            list-style-type: none;
+            transition: cubic-bezier(0.075, 0.82, 0.165, 0);
+
+
+        }
+
+
+        .about-me-section {
+            background-color: rgba(103, 235, 121, 0.582);
+        }
+
+        .about-me-section-heading {
+            font-family: 'Lobster';
+            font-size: 56px;
+            color: rgb(6, 14, 124);
+            font-weight: 500;
+            padding: 5px;
+            margin: 5px;
+
+        }
+
+        .about-me-section-description {
+            font-family: 'Poppins', sans-serif;
+            font-size: 15px;
+            color: rgb(139, 60, 60);
+            font-weight: normal;
+            padding: 5px;
+            margin: 5px;
+            padding-bottom: 5px;
+        }
+
+        .heritage-sites-section {
+            background-color: beige;
+        }
+
+        .heritage-sites-main-heading {
+            font-family: 'Roboto Slab';
+            font-size: 56px;
+            color: orangered;
+            font-weight: 300;
+            padding: 5px;
+            margin: 5px;
+
+        }
+
+        .heritage-sites-description {
+            font-family: 'Poppins', sans-serif;
+            font-size: 15px;
+            color: #141414;
+            font-weight: normal;
+            padding: 5px;
+            margin: 5px;
+        }
+
+        .heritage-sites-section-card {
+            background-color: rgb(241, 227, 237);
+            text-align: center;
+            border-width: 1px;
+            border-color: #141414;
+            border-radius: 16px;
+        }
+
+        .card-image {
+            height: 120px;
+            width: 110px;
+        }
+
+        .heritage-sites-section-card-header {
+            font-size: 20px;
+            font-family: 'Poppins', sans-serif;
+            color: rgb(7, 64, 143);
+            font-weight: 300;
+            padding: 5px;
+            margin: 5px;
+        }
+
+        .temples-section {
+            background-color: rgba(236, 245, 235, 0.829);
+        }
+
+        .temples-section-heading {
+            font-family: 'Roboto Slab';
+            color: orangered;
+            font-size: 56px;
+            font-weight: 300;
+
+
+        }
+
+        .temples-section-description {
+            font-family: 'Poppins', sans-serif;
+            font-size: 15px;
+            color: #141414;
+            font-weight: normal;
+            padding: 5px;
+            margin: 5px;
+
+
+        }
+
+        .temples-section-card {
+            background-color: rgba(255, 218, 185, 0.479);
+            text-align: center;
+            border-width: 1px;
+            border-color: #141414;
+            border-radius: 16px;
+
+        }
+
+        .temples-section-card-header {
+            font-size: 20px;
+            font-family: 'Poppins', sans-serif;
+            color: rgb(84, 28, 236);
+            font-weight: 300;
+            padding: 5px;
+            margin: 5px;
+
+        }
+
+        .art-section {
+            background-color: rgba(245, 220, 239, 0.733);
+        }
+
+        .art-section-heading {
+            font-family: 'Roboto Slab';
+            color: orangered;
+            font-size: 56px;
+            font-weight: 300;
+
+        }
+
+        .art-section-description {
+            font-family: 'Poppins', sans-serif;
+            font-size: 15px;
+            color: #141414;
+            font-weight: normal;
+            padding: 5px;
+            margin: 5px;
+
+
+        }
+
+        .art-section-card {
+            background-color: white;
+            text-align: center;
+            border-width: 1px;
+            border-color: #141414;
+            border-radius: 16px;
+
+        }
+
+        .art-section-card-header {
+            font-size: 20px;
+            font-family: 'Poppins', sans-serif;
+            color: rgb(6, 153, 141);
+            font-weight: 300;
+            padding: 5px;
+            margin: 5px;
+
+        }
+
+        .contact-me-section {
+
+            border: 0;
+            margin: 0;
+            margin-top: 10px;
+            padding: 10px;
+
+
+
+        }
+
+        .header {
+            font-family: 'Roboto Slab';
+            font-size: 56px;
+
+            color: orangered;
+            font-weight: 300;
+            margin: 5px;
+
+        }
+
+        .description {
+            font-family: 'Poppins', sans-serif;
+            font-size: 15px;
+            font-weight: normal;
+            color: #141414;
+            margin: 5px;
+            text-align: center;
+        }
+
+        form {
+            margin-top: 40px;
+            transition: all 4 in ease-in-out;
+            position: absolute;
+            min-width: 480px;
+            max-width: 780px;
+            min-width: 480px;
+            max-width: 780px;
+            margin-left: 40px;
+        }
+
+        .form-control {
+            width: 600px;
+            background-color: transparent;
+            border: none;
+            outline: none;
+            border-bottom: 1px solid grey;
+            font-size: 18px;
+            margin-bottom: 16px;
+        }
+
+        input {
+            height: 45px;
+        }
+
+
+        form .submit {
+            background: green;
+            border-color: transparent;
+            color: snow;
+            font-size: 20px;
+            font-weight: bold;
+            height: 40px;
+            width: 148px;
+            justify-content: center;
+        }
+    </style>
+</body>
+
+</html>
